@@ -1,6 +1,6 @@
 # electron-getsources-example
 
-The repo helps to reproduce problen with desktopCapturer.getSources().
+The repo helps to reproduce problem with desktopCapturer.getSources().
 
 The problem is getSources() doesn't return minimized windows at Windows OS. Also it doesn't return standart windows like Settings, Camera and etc.
 
